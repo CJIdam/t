@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: rgb(72, 72, 242);
+    padding: 50px;
+}
+div{
+    display: flex;
+    flex-direction: column;
+}
